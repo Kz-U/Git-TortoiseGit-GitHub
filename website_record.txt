@@ -13,3 +13,6 @@ https://blog.csdn.net/sinat_31057219/article/details/73265715
 
 Update your forked repository from origin:
 https://www.jianshu.com/p/e24eead9fd6b
+
+Fix local and origin diff:
+https://blog.csdn.net/qq_18229381/article/details/80547044
