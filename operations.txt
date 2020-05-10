@@ -1,5 +1,5 @@
 
-1. create repository in github and clone it to local
+1. create repository in github and clone it at local
 
 2. create 'document' branch and push to origin
 
