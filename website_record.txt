@@ -10,3 +10,6 @@ https://www.jianshu.com/p/8c69d1021d98
 
 fork/start/watch/follow:
 https://blog.csdn.net/sinat_31057219/article/details/73265715
+
+Update your forked repository from origin:
+https://www.jianshu.com/p/e24eead9fd6b

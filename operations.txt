@@ -8,3 +8,5 @@
 4. fix change and push to origin
 
 5. Multi-person collaborative development
+
+6. Update your forked repository from origin
