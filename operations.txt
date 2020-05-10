@@ -1,6 +1,8 @@
 
-1. create repository
+1. create repository in github and clone it to local
 
 2. create 'document' branch and push to origin
 
 3. merge branch at local and push to origin
+
+4. fix change and push to origin
