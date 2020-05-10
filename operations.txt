@@ -1,0 +1,6 @@
+
+1. create repository
+
+2. create 'document' branch and push to origin
+
+3. merge branch at local and push to origin
