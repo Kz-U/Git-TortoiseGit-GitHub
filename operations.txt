@@ -6,3 +6,5 @@
 3. merge branch at local and push to origin
 
 4. fix change and push to origin
+
+5. Multi-person collaborative development
